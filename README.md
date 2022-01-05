@@ -1,8 +1,8 @@
 # Dreamer-Studios
 1st year group assignment
 
-      This brings my first year group assignment as a university student.The task assigned to the group of five students was to create
-      a website under a theme of their choice.
+      This brings my first year group assignment as a university student.The task assigned to the group of five
+      students was to create a website under a theme of their choice.
 There our team decided to create a website under photography and used the name "Dreamer Studios". Photography is categorized under each theme and detailed descriptions are
 provided along with the relevant images.The customer will also be able to make their payments online after availing the service through this studio.
   
