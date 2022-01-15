@@ -11,3 +11,12 @@ footer of the website including
                                   * [About US Page](#About-US-Page)
                                   * [Category Page](#Category-Page)
                                   * [Account Page](#Account-Page)
+                  
+Here's is how I designed those pages....
+<img src = "Images/About_us Page.jpg">
+
+<img src = "Images/About_us Page B.jpg">
+
+<img src = "Images/Category Page.jpg">
+
+<img src = "Images/Account Page.jpg">
